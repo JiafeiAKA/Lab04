@@ -1,6 +1,6 @@
 ---
 name: NewBugReport
-about: ei
+about: eiei
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
