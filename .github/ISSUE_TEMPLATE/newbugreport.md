@@ -1,6 +1,6 @@
 ---
 name: NewBugReport
-about: eiei
+about: Describe this issue template's purpose here.
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
