@@ -1,6 +1,6 @@
 ---
 name: NewBugReport
-about: Describe this issue template's purpose here.
+about: eiei
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
@@ -10,12 +10,13 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: Thanks for taking the time to fill out this bug report!
+      value: |
+        Thanks for taking the time to fill out this bug report!
   - type: input
     id: contact
     attributes:
       label: Contact Details
-      description: How can we get in touch with you if we need more info? 
+      description: How can we get in touch with you if we need more info?
       placeholder: ex. email@example.com
     validations:
       required: false
@@ -59,10 +60,8 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct] (https://example.com)
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
 ---
-
-
