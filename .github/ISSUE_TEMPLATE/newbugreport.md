@@ -1,5 +1,5 @@
 ---
-name: NewBugReport
+name: Bug Report
 about: eiei
 description: File a bug report
 title: "[Bug]: "
