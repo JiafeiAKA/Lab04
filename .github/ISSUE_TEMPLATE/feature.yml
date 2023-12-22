@@ -45,7 +45,7 @@ body:
     id: logs
     attributes:
       label: What are the detail of your suggestiong
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      description: explain what do you want.
       render: shell
   - type: checkboxes
     id: terms
