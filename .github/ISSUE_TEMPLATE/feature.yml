@@ -34,7 +34,7 @@ body:
   - type: dropdown
     id: browsers
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: What the OS which you want to suggest
       multiple: true
       options:
         - Firefox
