@@ -1,6 +1,6 @@
 name: Feauture
 description: File a bug report
-title: "[Bug]: "
+title: "[Feauture;]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
