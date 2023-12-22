@@ -16,11 +16,17 @@ body:
         Thanks for taking the time to fill out this bug report!      placeholder: ex. email@example.com
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: typeofrequest
     attributes:
       label: Type of Request
       description: Also tell us, what did you expect to happen?
+      options:
+        - NewFeauture
+        - EIEIEI
+      default: 0
+    validations:
+      required: true
       placeholder: Tell us what you see!
       value: "A bug happened!"
     validations:
