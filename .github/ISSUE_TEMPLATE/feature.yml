@@ -20,7 +20,6 @@ body:
     id: typeofrequest
     attributes:
       label: Type of Request
-      Description: Select the type of your request
       options:
         - NewFeauture
         - EIEIEI
